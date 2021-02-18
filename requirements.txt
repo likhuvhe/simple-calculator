@@ -1,0 +1,2 @@
+run 'pip install -e .' to install
+run pytest 'tests/test_calculator.py' to run the tests
