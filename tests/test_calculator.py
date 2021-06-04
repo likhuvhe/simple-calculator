@@ -1,3 +1,4 @@
+import pytest
 from simple_calculator.calculator import add, multiply
 
 def test_add():
