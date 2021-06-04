@@ -1,5 +1,6 @@
 tests/__pycache__/
 simple_calculator/__pycache__/
+.pytest_cache
 .vscode/
 .history/
 .DS_Store/

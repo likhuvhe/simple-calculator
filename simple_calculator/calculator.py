@@ -5,7 +5,7 @@ def add(*num):
     return sum_num
 
 def multiply(*num):
-    mutiple = 1
+    mutiple_num = 1
     for n in num:
-        mutiple *= n
-    return mutiple
+        mutiple_num *= n
+    return mutiple_num
