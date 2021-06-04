@@ -1,0 +1,6 @@
+tests/_pycache_/
+simple_calculator/_pycache_/
+.vscode/
+.history/
+.DS_Store/
+Thumb.db
